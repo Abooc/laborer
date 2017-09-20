@@ -14,13 +14,15 @@
 bin/
 gen/
 *.iml
-/.idea/workspace.xml
-/.idea/libraries
+/.idea/
 
 # Gradle files
 .gradle/
 build/
 /*/build/
+gradle.properties
+gradlew
+gradlew.bat
 .externalNativeBuild
 
 # Local configuration file (sdk path, etc)
